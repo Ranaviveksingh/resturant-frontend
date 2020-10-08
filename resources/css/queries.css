@@ -1,0 +1,35 @@
+@media only screen and (max-width: 1200px){
+	.bigtext {
+  width: 100%;
+  padding: 0 2%;
+}
+.row{padding: 0 2%;}
+
+}
+
+
+
+@media only screen and (max-width: 1023px){
+	body{font-size: 18px;}
+	section{padding: 60px 0;}
+	.linetext {
+	  width: 80%;
+	  margin-left: 10%;
+	}
+	
+	.smallicon{width: 17px;}
+	.cityinfo{font-size: 90%;}
+	
+	
+	.contactfrm{width: 80%;}
+	
+}
+
+
+
+@media only screen and (max-width: 480px){
+
+	section{padding: 25px 0;}
+	.contactfrm{width: 100%;}
+
+}
